@@ -5,7 +5,8 @@
       "price": 27,
       "course_name": "Data Stucture",
       "about": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways.\r\n",
-      "benifits" : " Why You should take this course : 1.Keeps you in form. 2.Sets you apart from others. 3.Ability to contribute more. 4.Enhances your creativity. 5.Professional approach to customer demands."
+      "benifits" : " Why You should take this course : 1.Keeps you in form. 2.Sets you apart from others. 3.Ability to contribute more. 4.Enhances your creativity. 5.Professional approach to customer demands.",
+      "discount" : "5%"
 
     },
     {
@@ -14,7 +15,8 @@
       "price": 39,
       "course_name": "Algorithm",
       "about": "In mathematics and computer science, an algorithm  is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.[1] Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making).\r\n",
-      "benifits" : " Why You should take this course : 1.Keeps you in form. 2.Sets you apart from others. 3.Ability to contribute more. 4.Enhances your creativity. 5.Professional approach to customer demands."
+      "benifits" : " Why You should take this course : 1.Keeps you in form. 2.Sets you apart from others. 3.Ability to contribute more. 4.Enhances your creativity. 5.Professional approach to customer demands.",
+      "discount" : "6%"
 
     },
     {
@@ -23,7 +25,8 @@
       "price": 29,
       "course_name": "Operating System",
       "about": "Operating System (OS) is a software that acts as an interface between computer hardware components and the user. Every computer system must have at least one operating system to run other programs. Applications like Browsers, MS Office, Notepad Games, etc., need some environment to run and perform its tasks.The OS helps you to communicate with the computer without knowing how to speak the computer’s language. It is not possible for the user to use any computer or mobile device without having an operating system.\r\n",
-      "benifits" : " Why You should take this course : 1.Keeps you in form. 2.Sets you apart from others. 3.Ability to contribute more. 4.Enhances your creativity. 5.Professional approach to customer demands."
+      "benifits" : " Why You should take this course : 1.Keeps you in form. 2.Sets you apart from others. 3.Ability to contribute more. 4.Enhances your creativity. 5.Professional approach to customer demands.",
+      "discount" : "15%"
 
     },
     {
@@ -32,7 +35,8 @@
       "price": 25,
       "course_name": "Data Communication",
       "about": "Data communications refers to the transmission of this digital data between two or more computers and a computer network or data network is a telecommunications network that allows computers to exchange data. The physical connection between networked computing devices is established using either cable media or wireless media. The best-known computer network is the Internet.This tutorial should teach you basics of Data Communication and Computer Network (DCN) and will also take you through various advance concepts related to Data Communication and Computer Network.\r\n",
-      "benifits" : " Why You should take this course : 1.Keeps you in form. 2.Sets you apart from others. 3.Ability to contribute more. 4.Enhances your creativity. 5.Professional approach to customer demands."
+      "benifits" : " Why You should take this course : 1.Keeps you in form. 2.Sets you apart from others. 3.Ability to contribute more. 4.Enhances your creativity. 5.Professional approach to customer demands.",
+      "discount" : "9%"
 
     },
     {
@@ -41,7 +45,8 @@
       "price": 29,
       "course_name": "Computer Architecture",
       "about": "Computer architecture is the organisation of the components which make up a computer system and the meaning of the operations which guide its function. It defines what is seen on the machine interface, which is targeted by programming languages and their compilers.Computer architecture comprises rules, methods, and procedures that describe the execution and functionality of the entire computer system. In general terms, computer architecture refers to how a computer system is designed using compatible technologies.\r\n",
-      "benifits" : " Why You should take this course : 1.Keeps you in form. 2.Sets you apart from others. 3.Ability to contribute more. 4.Enhances your creativity. 5.Professional approach to customer demands."
+      "benifits" : " Why You should take this course : 1.Keeps you in form. 2.Sets you apart from others. 3.Ability to contribute more. 4.Enhances your creativity. 5.Professional approach to customer demands.",
+      "discount" : "12%"
 
     },
     {
@@ -50,6 +55,7 @@
       "price": 27,
       "course_name": "Microprocessor",
       "about": "Microprocessor is a computer processor where the data processing logic and control is included on a single integrated circuit, or a small number of integrated circuits. The microprocessor contains the arithmetic, logic, and control circuitry required to perform the functions of a computer's central processing unit.The microprocessor is the central unit of a computer system that performs arithmetic and logic operations, which generally include adding, subtracting, transferring numbers from one area to another, and comparing two numbers. It's often known simply as a processor, a central processing unit, or as a logic chip.\r\n",
-      "benifits" : " Why You should take this course : 1.Keeps you in form. 2.Sets you apart from others. 3.Ability to contribute more. 4.Enhances your creativity. 5.Professional approach to customer demands."
+      "benifits" : " Why You should take this course : 1.Keeps you in form. 2.Sets you apart from others. 3.Ability to contribute more. 4.Enhances your creativity. 5.Professional approach to customer demands.",
+      "discount" : "4%"
     }
   ]
