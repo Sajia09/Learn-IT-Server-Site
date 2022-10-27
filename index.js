@@ -15,6 +15,11 @@ app.get('/courses/:id', (req, res) => {
     const selectedCourse = courses.find(n => n._id === id);
     res.send(selectedCourse);
 });
+app.get('/getpremium/:id', (req, res) => {
+    const id = req.params.id;
+    const premium = courses.find(n => n._id === id);
+    res.send(premium);
+});
 
 app.listen(port, () => {
     console.log('Server running on port', port);
